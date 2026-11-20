@@ -1,4 +1,4 @@
-Dear Left-Handers
+🐤Hi there!
 
 - 🔭 I desire to make every website/open-source-application smooth-scroll/scale, font-customize-available and UI fascinating.
 - 👯 I’m looking to collaborate on making every software interface stunning and wonderful.
