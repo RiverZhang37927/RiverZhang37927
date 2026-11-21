@@ -3,6 +3,7 @@
 - 🔬 I want to make all maintream interfaces wonderful👓!
 - 🔭 I desire to carve every popular website / open-source-application into smooth-scroll / scale, font-customize-available and UI-fascinating artwork.
 - 👯 I’m looking to collaborate on making mainstream software/SoC/firmware interfaces stunning.
+
       (cuz visual👁️satisfaction😄 really boosts efficiency isn't it)
 - 🌱 I’m currently learning AI Infra (Inference/Prompt).
 - 😻 I'm looking for an opportunity to design application interfaces
